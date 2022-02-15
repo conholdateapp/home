@@ -22,31 +22,31 @@ product:
   # product item loop
   product_item:
     # item
-    - image : "images/home-view.png"
+    - image : "images/home-view.svg"
       name: "View"
       description: "View documents online. View over 90 document formats online with our build-in document viewer. No additional software installation required"
       link: "https://products.conholdate.app/viewer"
     
     # item
-    - image : "images/home-annotate.png"
+    - image : "images/home-annotate.svg"
       name: "Annotate"
       description: "Annotate documents online. We support text, area, free hand polyline, distance and much more annotations"
       link: "https://products.conholdate.app/annotation"
 
     # item
-    - image : "images/home-sign.png"
+    - image : "images/home-sign.svg"
       name: "Sign"
       description: "Sign document online with an advanced electronic signature"
       link: "https://products.conholdate.app/signature"
 
     # item
-    - image : "images/home-edit.png"
+    - image : "images/home-edit.svg"
       name: "Edit"
       description: "Edit documents online. Our document editor engine supports all major file formats"
       link: "https://products.conholdate.app/editor"
 
     # item
-    - image : "images/home-convert.png"
+    - image : "images/home-convert.svg"
       name: "Convert"
       description: "Convert documents online. Our document conversion engine supports over 7000 conversion pairs"
       link: "https://products.conholdate.app/conversion"
