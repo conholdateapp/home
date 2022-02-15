@@ -1,0 +1,3 @@
+[submodule "themes/conholdate-hugo"]
+	path = themes/conholdate-hugo
+	url = git@github.com:conholdateapp/conholdate-hugo.git
