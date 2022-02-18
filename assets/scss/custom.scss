@@ -1,6 +1,6 @@
 // Put custom SCSS rules in this file
 // Documentation: https://sass-lang.com/documentation
-.home-top {
+.home-banner {
     background-color: $gray-0;
 
     .container{
@@ -16,6 +16,10 @@
         background-position-x: right;
         background-position-y: 126px;
         background-size: 375px 273px;
+
+        p {
+            width: 50%;
+        }
 
         h1 {
             color: $gray-5;
@@ -33,21 +37,8 @@
   background-color: $gray-0;
 }
 
-.child-top {
-    background: $blue-gradient;
-
-    .container{
-        margin-top: 60px;
-        display: flex;
-        align-items: center;
-        height: 300px;
-
-        h1 {
-            color: $white;
-        }
-
-        h2 {
-            color: $gray-1;
-        }
-    }
+.features-started {
+  p {
+    min-height: 85px;
+  }
 }
