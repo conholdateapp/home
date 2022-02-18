@@ -34,72 +34,72 @@ features:
   feature:
     # feature
     - image: "/images/features-manage.svg"
-      image_alt: "manage"
+      imageAlt: "manage"
       title: "Manage files and document online"
       description: "Our online document manager was designed to improve your document management experience and offers all required tools just where you need them"
       button:
         enable: true
-        link: "/get-started/manage-documents-online"
-        link_text: "Learn more"
+        link: "/get-started/manage-documents"
+        label: "Learn more"
     
     # feature
     - image: "/images/features-cloud.svg"
-      image_alt: "cloud"
+      imageAlt: "cloud"
       title: "Cloud storage"
       description: "Always have your important files with you. Upload as many files as you need with no restriction"
       button:
         enable: true
-        link: "/get-started/"
-        link_text: "Learn more"
+        link: "/get-started/cloud-storage"
+        label: "Learn more"
 
     # feature
     - image: "/images/features-share.svg"
-      image_alt: "sharing"
+      imageAlt: "share"
       title: "Share documents"
       description: "Share documents with anyone you want by creating a link. Link can be removed anytime"
       button:
         enable: true
-        link: "/get-started/"
-        link_text: "Learn more"
+        link: "/get-started/share-documents"
+        label: "Learn more"
 
     # feature
     - image: "/images/features-embed.svg"
-      image_alt: "embed"
+      imageAlt: "embed"
       title: "Embed"
       description: "Embedded documents can be published at your website, blog or anywhere on the internet where HTML tags are supported"
       button:
         enable: true
-        link: "/get-started/"
-        link_text: "Learn more"
+        link: "/get-started/embed-documents"
+        label: "Learn more"
 
     # feature
     - image: "/images/features-documents.svg"
-      image_alt: "documents"
+      imageAlt: "documents"
       title: "Publish documents"
       description: "Got something useful and want to share it with the world? Publish your work, documents or documentation and everyone will see it"
       button:
         enable: true
-        link: "/get-started/"
-        link_text: "Learn more"
+        link: "/get-started/publish-documents"
+        label: "Learn more"
 
     # feature
     - image: "/images/features-forms.svg"
-      image_alt: "forms"
+      imageAlt: "forms"
       title: "Publish forms"
       description: "Build and publish your forms online with few clicks using our intuitive and newest forms builder app"
       button:
         enable: true
-        link: "/get-started/"
-        link_text: "Learn more"
+        link: "/get-started/publish-forms"
+        label: "Learn more"
 
     # feature
     - image: "/images/features-organization.svg"
-      image_alt: "organization"
+      imageAlt: "organization"
       title: "Organizations"
       description: "Create and manipulate your organization to collaborate your document and forms with other registered users securely"
       button:
         enable: true
-        link: "/get-started/"
-        link_text: "Learn more"
+        link: "/get-started/organizations"
+        label: "Learn more"
 
 ---
