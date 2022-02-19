@@ -12,8 +12,8 @@ banner:
   description: "Conholdate.app is an online document automation tool that provides various apps for document management and automation. Such as pptx merger, docx viewer, pdf to word converter and more "
   button:
     enable: true
-    label: "Sign In"
-    link: "https://dashboard.conholdate.app/signin"
+    label: "Get Started"
+    link: "/get-started"
 
 
 ############################# Products ############################
