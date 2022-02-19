@@ -14,8 +14,8 @@ banner:
   #description: ""
   button:
     enable: false
-    label: "Get Started"
-    link: "/get-started"
+    label: ""
+    link: ""
 
 ############################### Overview ##############################
 overview:

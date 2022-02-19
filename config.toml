@@ -1,6 +1,6 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "http://localhost:1313"
+baseURL = "http://conholdate.app"
 theme = "conholdate-hugo"
 # Number of posts per page in list view
 paginate = "4"
