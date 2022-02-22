@@ -101,5 +101,8 @@ features:
         enable: true
         link: "/get-started/organizations"
         label: "Learn more"
+      
+  link: "sign-up"
+  label: "Sign Up"
 
 ---
